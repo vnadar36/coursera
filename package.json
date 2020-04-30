@@ -1,0 +1,24 @@
+{
+  "name": "corsera-git",
+  "version": "1.0.0",
+  "description": "it is to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnadar36/coursera.git"
+  },
+  "author": "vasanthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnadar36/coursera/issues"
+  },
+  "homepage": "https://github.com/vnadar36/coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
